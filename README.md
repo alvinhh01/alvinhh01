@@ -7,6 +7,7 @@ Skills: SPSS, SQL, R, Python
 - **🔭 I’m currently working on this page.** 
 
 - **✍🏻 Projects that I previously worked on**
+  
 R studio (RQDA) - Qualitative analysis of issues faced by migrant workers [Rstudio - RQDA]([https://pages.github.com/](https://github.com/alvinhh01/rqdapackage)).
 
 
