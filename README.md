@@ -4,7 +4,7 @@ This repository contains examples of projects and I previously worked through da
 
 Skills: SPSS, SQL, R, Python
 
-- **🔭Highlighted Projects**
+- ##**🔭Highlighted Projects**
 Spotify Top Songs Analaysis - [SQL](https://github.com/alvinhh01/SQLProjects/blob/main/questionsandanswers): In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2019. I identified artists who released the most popular songs.
 
 
