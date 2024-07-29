@@ -14,7 +14,8 @@ Netflix Movies and TV Shows Data Set [Tableau](https://public.tableau.com/app/pr
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide [SQL - SQL QuickStart Guide](https://github.com/alvinhh01/SQL)
 
- - **SPSS** - analysing datasets - Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main), teaching how to analyse SPSS - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
+ - **SPSS** - analysing datasets -  1. Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main), 2.
+teaching how to analyse SPSS - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvinhh01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alvinlimhh//)  
