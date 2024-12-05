@@ -8,6 +8,8 @@ Skills: SPSS, SQL, R, Python
 Spotify Top Songs Analaysis - [SQL](https://github.com/alvinhh01/SQLProjects/blob/main/questionsandanswers): In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2019. I identified artists who released the most popular songs.
 
 Netflix Movies and TV Shows Data Set [Tableau](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
+
+Analysis of world indicator project [PowerBI][Python][https://github.com/alvinhh01/POWERBI1]
 ## Other Projects I have worked on
   
 - **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
