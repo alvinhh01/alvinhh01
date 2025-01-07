@@ -11,7 +11,7 @@ Netflix Movies and TV Shows Data Set using Tableau [Click Here](https://public.t
 
 Analysis of world indicator project - Used Python and PowerBI  [Click Here](https://github.com/alvinhh01/POWERBI1)
 
-Analysing HDB datasets using only numpy - Charts and linear regression [Click Here]https://github.com/alvinhh01/HDBanalysisCA1
+Analysing HDB datasets using only numpy - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)]
 ## Other Projects I have worked on
   
 - **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
