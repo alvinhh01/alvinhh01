@@ -10,6 +10,8 @@ Spotify Top Songs Analaysis using SQL- [Click Here](https://github.com/alvinhh01
 Netflix Movies and TV Shows Data Set using Tableau [Click Here](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
 
 Analysis of world indicator project - Used Python and PowerBI  [Click Here](https://github.com/alvinhh01/POWERBI1)
+
+Analysing HDB datasets using only numpy - Charts and linear regression [Click Here]https://github.com/alvinhh01/HDBanalysisCA1
 ## Other Projects I have worked on
   
 - **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
