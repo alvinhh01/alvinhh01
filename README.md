@@ -13,7 +13,7 @@ This repository contains examples of projects and I previously worked on. Feel f
   
 ## Personal Projects
 
-- **Python** Analysing HDB datasets using **Python** - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
+- **Python** Analysing HDB datasets - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide [SQL - SQL QuickStart Guide](https://github.com/alvinhh01/SQL)
   
