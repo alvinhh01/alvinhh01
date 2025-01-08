@@ -2,8 +2,8 @@
 ## Thanks for stopping by!
 This repository contains examples of projects and I previously worked on. Feel free to look around and [reach out](https://www.linkedin.com/in/alvinlimhh/) if you have any feedback or questions.
 
-Data analytics tool: SPSS, SQL, R, Python
-Visualisation: Tableau PowerBI
+**Data analytics tool: SPSS, SQL, R, Python**
+**Visualisation: Tableau and PowerBI**
 
 ## Highlighted Projects
 
@@ -19,9 +19,9 @@ Visualisation: Tableau PowerBI
   
 - **SQL** Spotify Top Songs Analaysis using- [Click Here](https://github.com/alvinhh01/SQLProjects/blob/main/questionsandanswers): In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2019. I identified artists who released the most popular songs.
 
-- **Tableau** Netflix Movies and TV Shows Data Set using **Tableau** [Click Here](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
+- **Tableau** Netflix Movies and TV Shows Data Set using [Click Here](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
   
-- **PowerBI** Analysis of world indicator project - Used **PowerBI**  [Click Here](https://github.com/alvinhh01/POWERBI1)
+- **PowerBI** Analysis of world indicator project  [Click Here](https://github.com/alvinhh01/POWERBI1)
 
 - **SPSS** - SPSS lesson, moderation analysis - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
 
