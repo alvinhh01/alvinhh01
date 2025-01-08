@@ -2,8 +2,8 @@
 ## Thanks for stopping by!
 This repository contains examples of projects and I previously worked on. Feel free to look around and [reach out](https://www.linkedin.com/in/alvinlimhh/) if you have any feedback or questions.
 
-###**Data analytics tool: SPSS, SQL, R, Python**
-###**Visualisation: Tableau and PowerBI**
+### **Data analytics tool: SPSS, SQL, R, Python**
+### **Visualisation: Tableau and PowerBI**
 
 ## Highlighted Projects
 
