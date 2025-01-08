@@ -18,7 +18,7 @@ Analysing HDB datasets using **Python** - Charts and linear regression [Click He
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide [SQL - SQL QuickStart Guide](https://github.com/alvinhh01/SQL)
 
-- **SPSS** - analysing datasets -  1. Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main), 2.
+- **SPSS** - analysing datasets -  1. Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main),
 - **SPSS** - SPSS lesson, moderation analysis - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
 
 
