@@ -9,7 +9,7 @@ Spotify Top Songs Analaysis using **SQL**- [Click Here](https://github.com/alvin
 
 Netflix Movies and TV Shows Data Set using **Tableau** [Click Here](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
 
-Analysis of world indicator project - Used **Python and PowerBI**  [Click Here](https://github.com/alvinhh01/POWERBI1)
+Analysis of world indicator project - Used **PowerBI**  [Click Here](https://github.com/alvinhh01/POWERBI1)
 
 Analysing HDB datasets using **Python** - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
 ## Other Projects I have worked on
