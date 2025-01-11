@@ -28,7 +28,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 ## Small Projects
 - **Python** Average Time Spent By A User On Social Media - Stacked histogram and boxplot [Click Here](https://github.com/alvinhh01/SocialMediaUse/tree/main)
   
-- **Python** If else statement [Click Here](https://github.com/alvinhh01/pizzadelivery/blob/main/Pizza%20calculator.py)
+- **Python** If else pizza delivery statement [Click Here](https://github.com/alvinhh01/pizzadelivery/blob/main/Pizza%20calculator.py)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvinhh01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alvinlimhh//)  
