@@ -26,8 +26,9 @@ This repository contains examples of projects and I previously worked on. Feel f
 - **SPSS** - SPSS lesson, moderation analysis - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
 
 ## Small Projects
-- **Python** Average Time Spent By A User On Social Media - Stacked histogram and boxplot [Click Here]([(https://github.com/alvinhh01/SocialMediaUse/tree/main)]
-- **Python** If else statement [Click Here](https://github.com/alvinhh01/pizzadelivery/blob/main/Pizza%20calculator.py)
+- **Python** Average Time Spent By A User On Social Media - Stacked histogram and boxplot [Click Here](https://github.com/alvinhh01/SocialMediaUse/tree/main)
+- 
+- **Python** If else statement 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvinhh01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alvinlimhh//)  
