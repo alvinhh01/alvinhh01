@@ -17,7 +17,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide, Walter Shields [Click Here](https://github.com/alvinhh01/SQL)
   
-- **SQL** Spotify Top Songs Analaysis- [Click Here](https://github.com/alvinhh01/SQLProjects/blob/main/questionsandanswers): In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2019. I identified artists who released the most popular songs.
+- **SQL** Spotify Top Songs Analaysis- [Click Here](https://github.com/alvinhh01/SQLProjects/blob/main/questionsandanswers) In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2019. I identified artists who released the most popular songs.
 
 - **Tableau** Netflix Movies and TV Shows Data Set using [Click Here](https://public.tableau.com/app/profile/alvin.lim1189/viz/BookNetflix_17034049883370/Netflix?publish=yes)
   
