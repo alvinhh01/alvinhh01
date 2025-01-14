@@ -7,7 +7,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 ## Highlighted Projects
 
-- **SPSS** - analysing datasets -  1. Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main)
+- **SPSS** - analysing datasets -  Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main)
 
 - **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
   
