@@ -15,7 +15,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 - **Python** Analysing HDB datasets - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
 
-- - **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
+- **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide, Walter Shields [Click Here](https://github.com/alvinhh01/SQL)
   
