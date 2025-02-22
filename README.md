@@ -7,15 +7,12 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 ## Highlighted Projects
 
-- **SPSS** - analysing datasets -  Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main)
+- **Python** Analysing HDB datasets - linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
 
-- **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
+- **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
   
 ## Personal Projects
 
-- **Python** Analysing HDB datasets - Charts and linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
-
-- **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
 
 - **SQL** - analysing datasets from the book - SQL QuickStart Guide, Walter Shields [Click Here](https://github.com/alvinhh01/SQL)
   
@@ -26,6 +23,10 @@ This repository contains examples of projects and I previously worked on. Feel f
 - **PowerBI** Analysis of world indicator project  [Click Here](https://github.com/alvinhh01/POWERBI1)
 
 - **SPSS** - SPSS lesson, moderation analysis - [a short tutorial on 'what is a moderation analysis' and guide on how to do a moderation analysis on Youtube](https://www.youtube.com/watch?v=ZMhP09c1vOk)
+
+- **SPSS** - analysing datasets -  Thesis [Identifying phenotype for OCD vs. non-OCD participants - Factor analysis](https://github.com/alvinhh01/factoranalysisthesis/tree/main)
+
+- **R studio** (RQDA) - Qualitative analysis of issues faced by migrant workers (Presented on Excel) [Rstudio - RQDA](https://github.com/alvinhh01/rqdapackage/)
 
 ## Small Projects
 - **Python** Average Time Spent By A User On Social Media - Histogram and Stacked boxplot [Click Here](https://github.com/alvinhh01/SocialMediaUse/tree/main)
