@@ -10,6 +10,10 @@ This repository contains examples of projects and I previously worked on. Feel f
 - **Python** Analysing HDB datasets - linear regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
 
 - **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
+
+- **Python** Predicting stock prices in King County - Linear and Polynomial regression [Click Here](https://github.com/alvinhh01/HDBanalysisCA1)
+
+- **Python** Predicting machine status using Logistic regression and XGBoost- [Click Here](https://github.com/alvinhh01/CA2)
   
 ## Personal Projects
 
