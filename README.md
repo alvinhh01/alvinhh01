@@ -11,7 +11,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 - **Python** Machine Learning XGBoost predicting stock price - [Click Here](https://github.com/alvinhh01/CA2)
 
-- **Python** Predicting stock prices in King County - Linear and Polynomial regression [Click Here](https://github.com/alvinhh01/KingCountyData/)
+- **Python** Predicting house prices in King County - Linear and Polynomial regression - R squared score of 0.8606 [Click Here](https://github.com/alvinhh01/KingCountyData/)
 
 - **Python** Predicting machine status using Logistic regression and XGBoost- [Click Here](https://github.com/alvinhh01/CA2)
   
