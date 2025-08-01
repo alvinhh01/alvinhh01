@@ -15,6 +15,8 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 - **Python** Predicting machine status using Logistic regression and XGBoost- **AUC (Area Under Curve): 0.994** - [Click Here](https://github.com/alvinhh01/Machine-Status-Classification/)
 
+- **Python** Singapore tourism project: Segmenting Singapore tourist using K-means and K-prototype** - [Click Here](https://github.com/alvinhh01/SingaporeTourismProject)
+
 - **Python** Keras - Fashion MNIST - Convolutional Neural Networks (CNNs) for image classification using Keras - [Click Here](https://github.com/alvinhh01/CNNclassificationFashion/blob/main/CA1_Fashion.ipynb)
   
 ## Personal Projects
