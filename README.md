@@ -13,7 +13,7 @@ This repository contains examples of projects and I previously worked on. Feel f
 
 - **Python** Predicting house prices in King County - Linear and Polynomial regression - **R² score of 0.8606** [Click Here](https://github.com/alvinhh01/KingCountyData/)
 
-- **Python** Predicting machine status using Logistic regression and XGBoost- **AUC (Area Under Curve): 0.994** - [Click Here](https://github.com/alvinhh01/Machine-Status-Classification/)
+- **Python** Predicting machine status using Logistic regression and XGBoost- **AUC (Area Under Curve): 0.994, Charts include Snap waterfall plot** - [Click Here](https://github.com/alvinhh01/Machine-Status-Classification/)
 
 - **Python** Singapore tourism project: Segmenting Singapore tourist using K-means and K-prototype** - [Click Here](https://github.com/alvinhh01/SingaporeTourismProject)
 
