@@ -18,6 +18,8 @@ This repository contains examples of projects and I previously worked on. Feel f
 - **Python** Singapore tourism project: Segmenting Singapore tourist using K-means and K-prototype** - [Click Here](https://github.com/alvinhh01/SingaporeTourismProject)
 
 - **Python** Keras - Fashion MNIST - Convolutional Neural Networks (CNNs) for image classification using Keras - [Click Here](https://github.com/alvinhh01/CNNclassificationFashion/blob/main/CA1_Fashion.ipynb)
+
+- Dialogflow - Telegram Chatbot that handles customer enquries on CPU/GPU hardware store [Click Here](https://web.telegram.org/k/#@HardwarePCstore_bot)
   
 ## Personal Projects
 
